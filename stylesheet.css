@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Alvi Nastaleeq';
+    src: url('AlviNastaleeq.woff2') format('woff2'),
+        url('AlviNastaleeq.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
