@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Rouqa Unicode';
+    src: url('RouqaUnicode.woff2') format('woff2'),
+        url('RouqaUnicode.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
